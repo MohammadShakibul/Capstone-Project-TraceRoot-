@@ -74,7 +74,7 @@ Each user has dedicated permissions and dashboards.
 - Inventory Management
 - Product Status Update
 
----
+
 
 ## 🚚 Supply Chain Tracking
 
